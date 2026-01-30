@@ -85,19 +85,10 @@ Results show effective amplification, noise suppression, and clear preservation 
 - `LTspice/` – Circuit simulations and noise analysis  
 - `PCB/` – Schematic, layout, Gerbers, and 3D render  
 - `Hardware_Testing/` – Lab demonstrations and observations  
-- `README.md` – Project documentation  
+
 
 ---
 
-## Team and Contributions
-
-**Team Name:** The Amplifires  
-
-- **Bootla Sahasrith** – Circuit design, simulation, PCB layout, and hardware validation  
-- **Rupanjan Ghosh** – System architecture and theoretical analysis  
-- **Sonagiri Thoshith Kautilya** – Filter design and schematic development  
-
----
 
 ## Disclaimer
 
