@@ -78,16 +78,7 @@ Results show effective amplification, noise suppression, and clear preservation 
 **Software:** LTspice, KiCad  
 **Hardware:** TL082, LM741 op-amps, precision passive components, ECG electrodes  
 
----
-
-## Repository Structure
-
-- `LTspice/` – Circuit simulations and noise analysis  
-- `PCB/` – Schematic, layout, Gerbers, and 3D render  
-- `Hardware_Testing/` – Lab demonstrations and observations  
-
-
----
+--
 
 
 ## Disclaimer
